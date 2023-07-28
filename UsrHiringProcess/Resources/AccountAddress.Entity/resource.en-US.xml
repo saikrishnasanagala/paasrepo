@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrColumn1.Caption" Value="ZIP/postal code" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Primary" />
+			<Item Name="Columns.UsrColumn3.Caption" Value="Full address" />
+		</Items>
+	</Group>
+</Resources>

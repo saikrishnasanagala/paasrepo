@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PAssets form page" />
+			<Item Name="LocalizableStrings.addRecord_7vp4hq0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_d0qjj96_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_h49bmvh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_p9h42hr_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_t46tomq_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_wjpmbbc_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExpansionPanel_ardh01n_title.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_rumb8nc_caption.Value" Value="Upload" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_0bcr87v_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_4w1av1h_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.TabContainer_5l82sgm_caption.Value" Value="New tab" />
+			<Item Name="LocalizableStrings.TabContainer_dk88l6a_caption.Value" Value="Attachments" />
+		</Items>
+	</Group>
+</Resources>

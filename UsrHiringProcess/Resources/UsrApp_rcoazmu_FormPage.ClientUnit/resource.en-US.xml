@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="POrders form page" />
+			<Item Name="LocalizableStrings.addRecord_6kdbzxd_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_aof66td_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ca93jwr_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fx78wh3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rozq4ah_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_tmhikuw_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ultlb8x_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExpansionPanel_nnt3ovu_title.Value" Value="Attachments" />
+			<Item Name="LocalizableStrings.ExpansionPanel_u9jjhtb_title.Value" Value="Expansion panel" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_uub7kk3_caption.Value" Value="Upload" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_07kqdgf_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_s8tpfk6_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.TabContainer_yyy8896_caption.Value" Value="Attachments" />
+		</Items>
+	</Group>
+</Resources>

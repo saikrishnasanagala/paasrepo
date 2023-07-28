@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3af64fe9-7f72-4d23-9bdf-47fe34ddf611",
+    "Name": "UsrEntity_85e7f4eRelatedPage",
+    "ModifiedOnUtc": "\/Date(1689780252000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Panel List (Page settings)",
+    "DependsOn": []
+  }
+}

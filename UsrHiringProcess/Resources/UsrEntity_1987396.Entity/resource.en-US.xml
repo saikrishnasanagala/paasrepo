@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="POpportunity skill" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Opportunity" />
+			<Item Name="Columns.UsrColumn3.Caption" Value="Skill" />
+			<Item Name="Columns.UsrColumn4.Caption" Value="Skill Level" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

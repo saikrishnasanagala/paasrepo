@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "8a725d53-1ac4-4c56-93bd-df84b4553a8e",
+    "Name": "UsrEntity_1c94d72RelatedPage",
+    "ModifiedOnUtc": "\/Date(1689782665000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "PAccount Addresses (Page settings)",
+    "DependsOn": []
+  }
+}

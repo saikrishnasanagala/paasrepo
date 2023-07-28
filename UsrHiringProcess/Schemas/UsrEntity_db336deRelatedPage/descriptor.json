@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "89641ab5-0666-4622-9597-806acdeef90a",
+    "Name": "UsrEntity_db336deRelatedPage",
+    "ModifiedOnUtc": "\/Date(1687795723000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "SubActivities (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SubActivities form page" />
+			<Item Name="LocalizableStrings.ActionDashboard_kcl8l2n_title.Value" Value="Action dashboard" />
+			<Item Name="LocalizableStrings.addRecord_006lv69_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_6blky2i_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_eqabz0v_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_etujglt_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fxkttct_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_m29j8z6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_t92mqqe_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_x16a5u1_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xancj0a_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "651857a0-cdb9-4bd5-8d18-d84648f9fd4d",
+    "Name": "UsrApp_dqzzyqn_Detail",
+    "ModifiedOnUtc": "\/Date(1686202345000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "POpportunities detail",
+    "DependsOn": []
+  }
+}

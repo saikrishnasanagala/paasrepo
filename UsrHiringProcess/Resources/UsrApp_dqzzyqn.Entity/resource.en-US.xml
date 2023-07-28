@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="POpportunities" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="Location" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="ED of joing" />
+			<Item Name="Columns.UsrColumn12.Caption" Value="Budget" />
+			<Item Name="Columns.UsrColumn13.Caption" Value="Domain" />
+			<Item Name="Columns.UsrColumn14.Caption" Value="proficiency skill" />
+			<Item Name="Columns.UsrColumn15.Caption" Value="Number of Requirement " />
+			<Item Name="Columns.UsrColumn7.Caption" Value="Status" />
+			<Item Name="Columns.UsrColumn8.Caption" Value="Description" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="Location Type" />
+			<Item Name="Columns.UsrDesignation.Caption" Value=" Designation" />
+			<Item Name="Columns.UsrName.Caption" Value="Opportunity Name" />
+			<Item Name="Columns.UsrOppoContact.Caption" Value="Contact" />
+			<Item Name="Columns.UsrOpportunityType.Caption" Value="Opportunity Type" />
+			<Item Name="Columns.UsrProduct.Caption" Value="Product" />
+			<Item Name="Columns.UsrRole.Caption" Value="Role" />
+		</Items>
+	</Group>
+</Resources>

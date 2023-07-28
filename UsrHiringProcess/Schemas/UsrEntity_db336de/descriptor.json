@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "75f24b8e-326b-4905-8d22-286333ba3603",
+    "Name": "UsrEntity_db336de",
+    "ModifiedOnUtc": "\/Date(1690447380000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "SubActivities",
+    "DependsOn": []
+  }
+}

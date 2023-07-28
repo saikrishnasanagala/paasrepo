@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cdbb426b-9d38-4a07-9b05-46c612ddfc0d",
+    "Name": "UsrApp_a4davmfBusinessRule",
+    "ModifiedOnUtc": "\/Date(1689677932000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "pContacts (Business rules)",
+    "DependsOn": []
+  }
+}

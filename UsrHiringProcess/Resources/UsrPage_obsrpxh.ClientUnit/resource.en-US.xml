@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Candidate overview form page" />
+			<Item Name="LocalizableStrings.addRecord_4s6rvdz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_7t4m1lq_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_955l1rz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_fzw4mke_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_rbrnfbc_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_y3flqxq_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ysp5sba_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

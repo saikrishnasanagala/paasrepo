@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "de4a7e02-420e-470a-8ab0-85692f213999",
+    "Name": "UsrPage_fsmhl29",
+    "ModifiedOnUtc": "\/Date(1689841550000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PCandidates form page",
+    "DependsOn": []
+  }
+}

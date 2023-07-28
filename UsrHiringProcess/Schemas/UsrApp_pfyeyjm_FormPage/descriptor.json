@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "774f0a84-2972-40d6-ba17-5f681a9c4e04",
+    "Name": "UsrApp_pfyeyjm_FormPage",
+    "ModifiedOnUtc": "\/Date(1690474966000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PQuotes form page",
+    "DependsOn": []
+  }
+}

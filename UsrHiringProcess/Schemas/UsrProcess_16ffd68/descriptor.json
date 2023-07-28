@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "380c28f4-4bd1-479f-a72b-ceb48cc02d4d",
+    "Name": "UsrProcess_16ffd68",
+    "ModifiedOnUtc": "\/Date(1688062714000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Creating sub activities",
+    "DependsOn": []
+  }
+}

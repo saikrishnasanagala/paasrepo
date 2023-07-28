@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.83358ad9-6427-f20f-78eb-2ae10bf9e7b5.Caption" Value="Make elements editable: 2" />
+			<Item Name="Caption" Value="SubActivities form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

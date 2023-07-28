@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PAccounts" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="No. of employees" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="Business entity" />
+			<Item Name="Columns.UsrColumn12.Caption" Value="Annual revenue" />
+			<Item Name="Columns.UsrColumn13.Caption" Value="Status" />
+			<Item Name="Columns.UsrColumn14.Caption" Value="Site" />
+			<Item Name="Columns.UsrColumn15.Caption" Value="Email address " />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Contact" />
+			<Item Name="Columns.UsrColumn4.Caption" Value="Web " />
+			<Item Name="Columns.UsrColumn5.Caption" Value="Primary phone" />
+			<Item Name="Columns.UsrColumn6.Caption" Value="Category" />
+			<Item Name="Columns.UsrColumn7.Caption" Value="Image 1" />
+			<Item Name="Columns.UsrColumn8.Caption" Value="Also known as" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="Code" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrType.Caption" Value="Type" />
+		</Items>
+	</Group>
+</Resources>

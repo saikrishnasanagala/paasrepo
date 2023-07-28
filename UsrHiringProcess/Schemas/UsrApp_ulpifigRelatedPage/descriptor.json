@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "7493817f-f9aa-4156-840d-0f1e83997514",
+    "Name": "UsrApp_ulpifigRelatedPage",
+    "ModifiedOnUtc": "\/Date(1689790040000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "employees (Page settings)",
+    "DependsOn": []
+  }
+}

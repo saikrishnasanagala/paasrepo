@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PCandidates" />
+			<Item Name="Columns.UsrAdharNumber.Caption" Value="Adhar Number" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="State" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="City" />
+			<Item Name="Columns.UsrColumn12.Caption" Value="ZIP" />
+			<Item Name="Columns.UsrColumn13.Caption" Value="Fulll address" />
+			<Item Name="Columns.UsrColumn14.Caption" Value="Email address " />
+			<Item Name="Columns.UsrColumn15.Caption" Value="Phone number 1" />
+			<Item Name="Columns.UsrColumn8.Caption" Value="Status" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="Country" />
+			<Item Name="Columns.UsrFullName.Caption" Value="Last Name " />
+			<Item Name="Columns.UsrInterviewer.Caption" Value="Interviewer" />
+			<Item Name="Columns.UsrName.Caption" Value="First Name" />
+			<Item Name="Columns.UsrPANNUmber.Caption" Value="PAN Number" />
+			<Item Name="Columns.UsrRole.Caption" Value="Role" />
+			<Item Name="Columns.UsrTechnology.Caption" Value="Technology " />
+		</Items>
+	</Group>
+</Resources>

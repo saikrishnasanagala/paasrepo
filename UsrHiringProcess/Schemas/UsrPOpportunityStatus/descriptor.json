@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ac2b1856-cea7-48b4-8273-03ebdb8c9828",
+    "Name": "UsrPOpportunityStatus",
+    "ModifiedOnUtc": "\/Date(1690103629000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "POpportunity Status",
+    "DependsOn": []
+  }
+}

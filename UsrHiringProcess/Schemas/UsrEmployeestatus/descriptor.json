@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6df0fe87-0ebe-4ce5-adc3-a4c9ca2aefdb",
+    "Name": "UsrEmployeestatus",
+    "ModifiedOnUtc": "\/Date(1689840148000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Employee status",
+    "DependsOn": []
+  }
+}

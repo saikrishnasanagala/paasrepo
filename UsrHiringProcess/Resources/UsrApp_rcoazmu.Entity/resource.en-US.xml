@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="POrders" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrActivity.Caption" Value="Activities" />
+			<Item Name="Columns.UsrAnualCTC.Caption" Value="Anual CTC" />
+			<Item Name="Columns.UsrCandidate.Caption" Value="Candidate" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrDOJ.Caption" Value="Date Of joing" />
+			<Item Name="Columns.UsrName.Caption" Value="Order" />
+			<Item Name="Columns.UsrOPportunity.Caption" Value="Opportunity" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+			<Item Name="Columns.UsrWorklcation.Caption" Value="Work location" />
+			<Item Name="Columns.UsrWorkshift.Caption" Value="Shift" />
+			<Item Name="Columns.UsrWorkType.Caption" Value="Work type" />
+		</Items>
+	</Group>
+</Resources>

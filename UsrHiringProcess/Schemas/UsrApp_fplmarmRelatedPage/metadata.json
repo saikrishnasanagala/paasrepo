@@ -1,0 +1,29 @@
+﻿{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "AddonSchemaManager",
+      "UId": "685a53cb-fcdc-4816-9842-c4db8bdb4c84",
+      "A2": "UsrApp_fplmarmRelatedPage",
+      "A5": "6f71e54c-1960-40c9-94f6-073fd67699ab",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "b38e3ca5-f119-43b6-a9c7-8c1443a3214a",
+      "B8": "0.0.0.0",
+      "AD1": "87ba3acf-44c1-4aa1-8438-6ad91443ede4",
+      "AD2": "EntitySchemaManager",
+      "AD3": "RelatedPage",
+      "AD5": "3a2d6f51-1bfc-4c17-aacb-b53de4866b7c",
+      "AD4": {
+  "Pages": [
+    {
+      "UId": "bac8cdc1-8ca9-42cd-bca3-0ff9da0b491c",
+      "PageSchemaUId": "29f627a8-bdac-451f-9315-bec3c4b9273c",
+      "IsDefault": true,
+      "IsSspDefault": false
+    }
+  ]
+}
+    }
+  }
+}

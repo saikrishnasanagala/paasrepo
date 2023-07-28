@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "2d70dcc0-91a9-4fb8-b22c-d7ffed0e0e20",
+    "Name": "UsrApp_gruyofaRelatedPage",
+    "ModifiedOnUtc": "\/Date(1686723546000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "PCandidates (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3a5e959d-6e06-4c66-b78f-833cc91cc6dd",
+    "Name": "UsrApp_pfyeyjmRelatedPage",
+    "ModifiedOnUtc": "\/Date(1686724561000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "PQuotes (Page settings)",
+    "DependsOn": []
+  }
+}

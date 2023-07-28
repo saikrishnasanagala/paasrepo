@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "04173ed0-5145-4d95-b60a-bd6d4a71675e",
+    "Name": "UsrApp_a4davmf_ListPage",
+    "ModifiedOnUtc": "\/Date(1689677275000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Contacts list page",
+    "DependsOn": []
+  }
+}

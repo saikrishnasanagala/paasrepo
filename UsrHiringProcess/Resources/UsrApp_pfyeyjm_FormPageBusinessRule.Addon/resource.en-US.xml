@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.60c37989-934f-e670-aae8-04530c0589f9.Caption" Value="show email" />
+			<Item Name="Caption" Value="PQuotes form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

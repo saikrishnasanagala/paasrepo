@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="OpportunityCandidates form page" />
+			<Item Name="LocalizableStrings.addRecord_1udwxx3_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_22mvk94_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_c5omb9s_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_kn6vi2f_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_qj4qd1d_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_qtwe7yn_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_s098s93_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_t413moy_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_tl7wzcr_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xu2briz_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

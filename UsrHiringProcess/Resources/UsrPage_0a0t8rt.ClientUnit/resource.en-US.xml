@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Account address form page" />
+			<Item Name="LocalizableStrings.addRecord_5oqfq0w_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_a6rhb5l_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_hvoojoj_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_i3fpf0l_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_mz1i3k7_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

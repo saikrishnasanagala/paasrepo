@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2bab5765-a7d5-4852-9d2c-0e91ff762f0e",
+    "Name": "UsrApp_a4davmf",
+    "ModifiedOnUtc": "\/Date(1689689164000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "pContacts",
+    "DependsOn": []
+  }
+}

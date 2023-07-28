@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "371db0fe-a2bd-4966-bc12-876b3f58a436",
+    "Name": "UsrApp_uxkfptp_Detail",
+    "ModifiedOnUtc": "\/Date(1686202600000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PAccounts detail",
+    "DependsOn": []
+  }
+}

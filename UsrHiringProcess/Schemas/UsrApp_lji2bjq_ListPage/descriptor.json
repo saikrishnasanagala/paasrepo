@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ceac1e85-d4f5-4e66-9238-043267efbdef",
+    "Name": "UsrApp_lji2bjq_ListPage",
+    "ModifiedOnUtc": "\/Date(1686206504000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PActivities list page",
+    "DependsOn": []
+  }
+}

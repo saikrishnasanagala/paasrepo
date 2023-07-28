@@ -1,0 +1,31 @@
+﻿{
+  "Descriptor": {
+    "UId": "b38e3ca5-f119-43b6-a9c7-8c1443a3214a",
+    "Name": "UsrHiringProcess",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrHiringProcess.csproj",
+    "DependsOn": [
+      {
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBase"
+      },
+      {
+        "UId": "1eefea8c-efe3-53d9-6397-3aac9cc9e785",
+        "PackageVersion": "7.8.0",
+        "Name": "Approval"
+      },
+      {
+        "UId": "29996b0e-2b19-27a8-dab4-67fbc00db573",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProcessDesigner"
+      },
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d47fc236-6bb0-493e-a5d9-ef83496602b4",
+    "Name": "UsrApp_pfyeyjm_FormPageBusinessRule",
+    "ModifiedOnUtc": "\/Date(1690449239000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "PQuotes form page (Business rules)",
+    "DependsOn": []
+  }
+}

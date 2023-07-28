@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "92d3dbfd-5a71-431e-abc5-2c18402e51c2",
+    "Name": "UsrProcess_47c7a01",
+    "ModifiedOnUtc": "\/Date(1687277654000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "create a order & asset",
+    "DependsOn": []
+  }
+}

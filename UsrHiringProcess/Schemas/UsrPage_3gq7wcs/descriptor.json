@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3448786c-ee38-4494-b817-91237fc4edfb",
+    "Name": "UsrPage_3gq7wcs",
+    "ModifiedOnUtc": "\/Date(1689780060000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Panel List form page",
+    "DependsOn": []
+  }
+}

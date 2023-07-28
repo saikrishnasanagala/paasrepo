@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PQuotes" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrActivity.Caption" Value="Activity" />
+			<Item Name="Columns.UsrApproval.Caption" Value="Approval" />
+			<Item Name="Columns.UsrCandidate.Caption" Value="Employee" />
+			<Item Name="Columns.UsrClientBudget.Caption" Value="Client bill rate" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="Status" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="Contact" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrOpportunity.Caption" Value="Opportunity" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Proposed bill rate" />
+			<Item Name="Columns.Usrproduct.Caption" Value="product" />
+		</Items>
+	</Group>
+</Resources>

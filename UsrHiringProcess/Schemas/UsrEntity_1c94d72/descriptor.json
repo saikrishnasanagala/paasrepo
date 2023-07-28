@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ddd5d136-edd3-4d56-8053-4e5da502cc4f",
+    "Name": "UsrEntity_1c94d72",
+    "ModifiedOnUtc": "\/Date(1689782768000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PAccount Addresses",
+    "DependsOn": []
+  }
+}

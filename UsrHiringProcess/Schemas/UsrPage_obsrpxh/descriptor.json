@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cc9146b4-378f-4dc6-9df2-76485cf50f30",
+    "Name": "UsrPage_obsrpxh",
+    "ModifiedOnUtc": "\/Date(1687977698000)\/",
+    "Parent": {
+      "UId": "f3600f35-4e3d-4dd3-882e-3404ab515e38",
+      "Name": "PageWithTabsAndActionDashboardFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Candidate overview form page",
+    "DependsOn": []
+  }
+}

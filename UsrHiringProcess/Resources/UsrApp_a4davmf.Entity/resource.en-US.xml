@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="pContacts" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="Age" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Image 1" />
+			<Item Name="Columns.UsrColumn3.Caption" Value="Full job title" />
+			<Item Name="Columns.UsrColumn4.Caption" Value="Mobile phone" />
+			<Item Name="Columns.UsrColumn5.Caption" Value="Business phone" />
+			<Item Name="Columns.UsrColumn6.Caption" Value="Email" />
+			<Item Name="Columns.UsrColumn7.Caption" Value="Type" />
+			<Item Name="Columns.UsrColumn8.Caption" Value="Titile" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="Recipient's name" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

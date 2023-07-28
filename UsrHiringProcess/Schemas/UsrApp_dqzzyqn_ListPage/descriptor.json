@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0864e0b3-1805-4de9-97a5-1f5f5912ca1b",
+    "Name": "UsrApp_dqzzyqn_ListPage",
+    "ModifiedOnUtc": "\/Date(1688297009000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "POpportunities list page",
+    "DependsOn": []
+  }
+}

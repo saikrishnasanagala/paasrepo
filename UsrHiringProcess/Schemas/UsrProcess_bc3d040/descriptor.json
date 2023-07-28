@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0ad715a1-6b19-4935-a22c-54278e174c04",
+    "Name": "UsrProcess_bc3d040",
+    "ModifiedOnUtc": "\/Date(1690194963000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "quote field got changed",
+    "DependsOn": []
+  }
+}

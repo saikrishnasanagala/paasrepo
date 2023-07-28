@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9da289c0-d252-4a59-97de-f2534eed7925",
+    "Name": "UsrEntity_b804796",
+    "ModifiedOnUtc": "\/Date(1689843800000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "OpportunityCandidates",
+    "DependsOn": []
+  }
+}

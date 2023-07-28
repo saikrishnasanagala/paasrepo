@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fec28814-1308-41d8-a086-8ed5c5ae87f8",
+    "Name": "UsrEntity_85e7f4e",
+    "ModifiedOnUtc": "\/Date(1689780250000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Panel List",
+    "DependsOn": []
+  }
+}

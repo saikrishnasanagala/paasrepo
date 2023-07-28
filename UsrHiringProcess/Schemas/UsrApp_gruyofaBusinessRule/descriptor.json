@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "d4482505-91c2-4d7d-85b8-6647cadc904f",
+    "Name": "UsrApp_gruyofaBusinessRule",
+    "ModifiedOnUtc": "\/Date(1686723551000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "PCandidates (Business rules)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PAccount Addresses form page" />
+			<Item Name="LocalizableStrings.addRecord_e7wifv6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_pwi392e_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_v3uqa1l_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_xtny3df_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_zujyjtw_caption.Value" Value="Add new" />
+		</Items>
+	</Group>
+</Resources>

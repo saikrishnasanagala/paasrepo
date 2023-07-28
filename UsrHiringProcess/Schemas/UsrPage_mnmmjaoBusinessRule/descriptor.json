@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a22f4b06-68b4-4535-98ef-623b1925fd17",
+    "Name": "UsrPage_mnmmjaoBusinessRule",
+    "ModifiedOnUtc": "\/Date(1690448761000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "SubActivities form page (Business rules)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "87ba3acf-44c1-4aa1-8438-6ad91443ede4",
+    "Name": "UsrApp_fplmarm",
+    "ModifiedOnUtc": "\/Date(1689156083000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PAssets",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "94aade3a-2364-4092-acdf-b9e4304a0103",
+    "Name": "UsrProcess_b101d06",
+    "ModifiedOnUtc": "\/Date(1690304390000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "send a mail to account",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "685a53cb-fcdc-4816-9842-c4db8bdb4c84",
+    "Name": "UsrApp_fplmarmRelatedPage",
+    "ModifiedOnUtc": "\/Date(1687277832000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "PAssets (Page settings)",
+    "DependsOn": []
+  }
+}

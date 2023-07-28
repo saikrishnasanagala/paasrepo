@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2108c1aa-0b88-4b99-97f5-4fd1aabb26d2",
+    "Name": "UsrTechnology",
+    "ModifiedOnUtc": "\/Date(1688292866000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Technology ",
+    "DependsOn": []
+  }
+}

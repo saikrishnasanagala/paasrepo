@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "12dba16d-a600-40a0-bb32-08bfcc097f3d",
+    "Name": "UsrApprovalByClient",
+    "ModifiedOnUtc": "\/Date(1686725111000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Approval By Client",
+    "DependsOn": []
+  }
+}

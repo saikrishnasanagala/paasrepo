@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PQuotes form page" />
+			<Item Name="LocalizableStrings.addRecord_15vxhhz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_3tu33b6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_b8yauu0_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_l8frflf_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_q7ceeit_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_q7w5bik_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ysgu4y6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.Button_w2xvylv_caption.Value" Value="Send a Mail" />
+			<Item Name="LocalizableStrings.TabContainer_v51y7fh_caption.Value" Value="files" />
+			<Item Name="LocalizableStrings.TabContainer_zpf7efh_caption.Value" Value="activities" />
+		</Items>
+	</Group>
+</Resources>

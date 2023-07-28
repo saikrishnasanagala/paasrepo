@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="OpportunityCandidates" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrCandidate.Caption" Value="Candidate" />
+			<Item Name="Columns.UsrColumn7.Caption" Value="Employee" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrOpportunity.Caption" Value="Opportunity" />
+			<Item Name="Columns.UsrProduct.Caption" Value="Product" />
+			<Item Name="Columns.UsrStatus.Caption" Value="Status" />
+		</Items>
+	</Group>
+</Resources>

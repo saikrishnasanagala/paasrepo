@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="AddonConfig.Rules.35bfe8a7-8ec4-7233-cafe-d8fd4d81a18b.Caption" Value="Hide elements: Candidate" />
+			<Item Name="AddonConfig.Rules.5a7b2e80-cd86-5b6e-66b3-738d62caaec1.Caption" Value="Hide elements: Employee" />
+			<Item Name="Caption" Value="OpportunityCandidates form page (Business rules)" />
+		</Items>
+	</Group>
+</Resources>

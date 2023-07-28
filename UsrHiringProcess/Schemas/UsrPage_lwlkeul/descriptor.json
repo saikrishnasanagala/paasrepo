@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2aaed241-d5af-4cd7-8ee6-159e5cc4d717",
+    "Name": "UsrPage_lwlkeul",
+    "ModifiedOnUtc": "\/Date(1689782770000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PAccount Addresses form page",
+    "DependsOn": []
+  }
+}

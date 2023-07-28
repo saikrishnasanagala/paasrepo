@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Panel List" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Last Name" />
+			<Item Name="Columns.UsrColumn3.Caption" Value="Account" />
+			<Item Name="Columns.UsrColumn4.Caption" Value="Job Title" />
+			<Item Name="Columns.UsrColumn5.Caption" Value="Work number " />
+			<Item Name="Columns.UsrColumn6.Caption" Value="Mobile number " />
+			<Item Name="Columns.UsrColumn7.Caption" Value="Email address " />
+			<Item Name="Columns.UsrColumn8.Caption" Value="MR/MS" />
+			<Item Name="Columns.UsrName.Caption" Value=" First Name" />
+		</Items>
+	</Group>
+</Resources>

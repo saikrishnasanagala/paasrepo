@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a67c3bab-213b-4ecb-9df4-bf16d9122148",
+    "Name": "UsrPage_6e8qduf",
+    "ModifiedOnUtc": "\/Date(1689793170000)\/",
+    "Parent": {
+      "UId": "97e48060-149c-408f-9f17-8ba82c400249",
+      "Name": "PageWithAreaFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Candidate skill form page",
+    "DependsOn": []
+  }
+}

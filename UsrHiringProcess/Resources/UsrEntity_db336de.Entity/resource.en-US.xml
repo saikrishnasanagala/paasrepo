@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="SubActivities" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrCandidate.Caption" Value="Candidate" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="bench candidate" />
+			<Item Name="Columns.UsrColumn7.Caption" Value="Type" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="Interview Time" />
+			<Item Name="Columns.UsrInterviewer.Caption" Value="Interviewer" />
+			<Item Name="Columns.UsrMainActicity.Caption" Value="Main Acticity" />
+			<Item Name="Columns.UsrName.Caption" Value="SubActivity" />
+			<Item Name="Columns.UsrProduct.Caption" Value="Product" />
+			<Item Name="Columns.UsrStageOfActivity.Caption" Value="Stage Of Activity" />
+			<Item Name="Columns.UsrStatusOfActivity.Caption" Value="Status Of Activity" />
+		</Items>
+	</Group>
+</Resources>

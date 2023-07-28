@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "67b1cf81-756f-4061-b40c-bc9237c31f3b",
+    "Name": "UsrStageOfActivity",
+    "ModifiedOnUtc": "\/Date(1686207842000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Stage Of Activity",
+    "DependsOn": []
+  }
+}

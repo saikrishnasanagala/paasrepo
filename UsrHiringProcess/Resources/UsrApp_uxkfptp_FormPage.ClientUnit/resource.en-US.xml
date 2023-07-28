@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PAccounts form page" />
+			<Item Name="LocalizableStrings.ActionDashboard_m1i87ie_title.Value" Value="Action dashboard" />
+			<Item Name="LocalizableStrings.addRecord_483x5cp_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_98sznq6_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_bonsjzw_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_g02nbjd_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_iw6w0dk_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_kd85e65_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_upusnrh_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.ExpansionPanel_25vcu88_title.Value" Value="Communication options" />
+			<Item Name="LocalizableStrings.ExpansionPanel_a9k49h4_title.Value" Value="Expanded list" />
+			<Item Name="LocalizableStrings.ExpansionPanel_dvgqmfz_title.Value" Value="Activities" />
+			<Item Name="LocalizableStrings.ExpansionPanel_fs4vtg9_title.Value" Value="Segmentation" />
+			<Item Name="LocalizableStrings.ExpansionPanel_gnnhh5u_title.Value" Value="Expansion panel" />
+			<Item Name="LocalizableStrings.ExpansionPanel_v2hg8ur_title.Value" Value="Addresse" />
+			<Item Name="LocalizableStrings.ExpansionPanel_v8kskup_title.Value" Value="Expanded list" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_bzxtse2_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_gzbqzpq_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_php8iw8_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_umzgt6l_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_0xn6ii9_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ltq9p2r_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_ybblj6a_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_zgbrrso_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_40ogzty_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_9gisior_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_okhx72z_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_vwx0j9o_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_6527i8t_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_corq0h5_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_q9znhke_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_qjrwx6s_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_7vt7kvm_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_bncm5oy_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_e88h6iu_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_mu0aacj_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_5awks9s_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_8gyspdv_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_jgpci7u_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_un4yu45_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.TabContainer_akznqj1_caption.Value" Value="Panel List" />
+			<Item Name="LocalizableStrings.TabContainer_fsxc0i5_caption.Value" Value="Account info" />
+			<Item Name="LocalizableStrings.TabContainer_hojnpyl_caption.Value" Value="Addresses" />
+			<Item Name="LocalizableStrings.TabContainer_nwhtqs4_caption.Value" Value="Attachements" />
+			<Item Name="LocalizableStrings.TabContainer_nyhy162_caption.Value" Value="History" />
+			<Item Name="LocalizableStrings.TabContainer_v3tlu6p_caption.Value" Value="Contacts &amp; structure" />
+			<Item Name="LocalizableStrings.TabContainer_xrjsa15_caption.Value" Value="Opportunities" />
+		</Items>
+	</Group>
+</Resources>

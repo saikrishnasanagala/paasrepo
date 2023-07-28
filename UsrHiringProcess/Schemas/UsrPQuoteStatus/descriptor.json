@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ef6fb59e-4e8d-4269-8f48-f3f2bcf99e42",
+    "Name": "UsrPQuoteStatus",
+    "ModifiedOnUtc": "\/Date(1690109837000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PQuote Status",
+    "DependsOn": []
+  }
+}

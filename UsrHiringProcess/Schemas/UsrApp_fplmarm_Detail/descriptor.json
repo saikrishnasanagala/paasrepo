@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "3e193379-cdb9-41a5-91d0-29076f5ea2ca",
+    "Name": "UsrApp_fplmarm_Detail",
+    "ModifiedOnUtc": "\/Date(1687277832000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PAssets detail",
+    "DependsOn": []
+  }
+}

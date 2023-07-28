@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "b8cfb1f7-8279-4d1c-8bcf-e03c8fb00dc9",
+    "Name": "UsrCandidateskillLookup",
+    "ModifiedOnUtc": "\/Date(1689573299000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Candidate skill Lookup",
+    "DependsOn": []
+  }
+}

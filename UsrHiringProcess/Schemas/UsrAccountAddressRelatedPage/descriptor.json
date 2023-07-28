@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "388deca1-735f-4315-8449-c4f28ef1d02d",
+    "Name": "UsrAccountAddressRelatedPage",
+    "ModifiedOnUtc": "\/Date(1689781142000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Account address (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "761304b5-4f0f-44af-b99b-453f5d8d9790",
+    "Name": "UsrApp_uxkfptp_ListPage",
+    "ModifiedOnUtc": "\/Date(1689957890000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PAccounts list page",
+    "DependsOn": []
+  }
+}

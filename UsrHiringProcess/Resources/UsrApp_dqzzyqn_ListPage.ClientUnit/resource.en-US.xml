@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="POpportunities list page" />
+			<Item Name="LocalizableStrings.ChartWidget_i7huhi9_series_0.Value" Value="POpportunities" />
+			<Item Name="LocalizableStrings.ChartWidget_i7huhi9_title.Value" Value="Account" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.SearchFilter_placeholder.Value" Value="Search" />
+		</Items>
+	</Group>
+</Resources>

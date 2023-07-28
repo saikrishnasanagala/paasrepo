@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5fa2d63c-756f-4702-9a70-2301c0705654",
+    "Name": "UsrEmployeeExperience",
+    "ModifiedOnUtc": "\/Date(1689842848000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Employee Experience",
+    "DependsOn": []
+  }
+}

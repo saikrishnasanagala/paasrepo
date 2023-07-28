@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PAccount Addresses" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="Full address" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Account" />
+			<Item Name="Columns.UsrColumn3.Caption" Value="Country" />
+			<Item Name="Columns.UsrColumn4.Caption" Value="City" />
+			<Item Name="Columns.UsrColumn5.Caption" Value="State/province" />
+			<Item Name="Columns.UsrColumn6.Caption" Value="ZIP/postal code" />
+			<Item Name="Columns.UsrColumn7.Caption" Value="Primary" />
+			<Item Name="Columns.UsrColumn8.Caption" Value="Address" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="Address type" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "3446d2ce-8d06-4acd-a015-a9fd01619368",
+    "Name": "UsrApp_rcoazmuRelatedPage",
+    "ModifiedOnUtc": "\/Date(1687277687000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "POrders (Page settings)",
+    "DependsOn": []
+  }
+}

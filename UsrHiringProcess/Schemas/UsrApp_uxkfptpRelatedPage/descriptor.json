@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "0c863d51-b430-4106-8727-e244a8a9074a",
+    "Name": "UsrApp_uxkfptpRelatedPage",
+    "ModifiedOnUtc": "\/Date(1686202600000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "PAccounts (Page settings)",
+    "DependsOn": []
+  }
+}

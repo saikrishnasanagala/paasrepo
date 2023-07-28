@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5a4f0a4a-1a9d-493a-a8ce-46fb9217b9d4",
+    "Name": "UsrEntity_1987396",
+    "ModifiedOnUtc": "\/Date(1690106385000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "POpportunity skill",
+    "DependsOn": []
+  }
+}

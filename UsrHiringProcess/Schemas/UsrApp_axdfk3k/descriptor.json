@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "78723936-4d0a-4241-a76d-f3e0b413a40d",
+    "Name": "UsrApp_axdfk3k",
+    "ModifiedOnUtc": "\/Date(1689790229000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PProducts",
+    "DependsOn": []
+  }
+}

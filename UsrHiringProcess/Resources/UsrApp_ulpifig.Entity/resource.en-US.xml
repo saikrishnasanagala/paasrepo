@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="employees" />
+			<Item Name="Columns.UsrColumn10.Caption" Value="Full Address" />
+			<Item Name="Columns.UsrColumn11.Caption" Value="PAN Number" />
+			<Item Name="Columns.UsrColumn12.Caption" Value="Adhar Number" />
+			<Item Name="Columns.UsrColumn13.Caption" Value="Email address " />
+			<Item Name="Columns.UsrColumn14.Caption" Value="Phone number " />
+			<Item Name="Columns.UsrColumn15.Caption" Value="Candidate ID" />
+			<Item Name="Columns.UsrColumn16.Caption" Value="Joning Date" />
+			<Item Name="Columns.UsrColumn17.Caption" Value="Cuurent CTC" />
+			<Item Name="Columns.UsrColumn18.Caption" Value="Experience" />
+			<Item Name="Columns.UsrColumn19.Caption" Value="designation" />
+			<Item Name="Columns.UsrColumn2.Caption" Value="Last Name" />
+			<Item Name="Columns.UsrColumn3.Caption" Value="Role" />
+			<Item Name="Columns.UsrColumn4.Caption" Value="Technolgy" />
+			<Item Name="Columns.UsrColumn5.Caption" Value="Status" />
+			<Item Name="Columns.UsrColumn6.Caption" Value="Country" />
+			<Item Name="Columns.UsrColumn7.Caption" Value="State" />
+			<Item Name="Columns.UsrColumn8.Caption" Value="City" />
+			<Item Name="Columns.UsrColumn9.Caption" Value="ZIP CODE" />
+			<Item Name="Columns.UsrName.Caption" Value=" First Name" />
+		</Items>
+	</Group>
+</Resources>

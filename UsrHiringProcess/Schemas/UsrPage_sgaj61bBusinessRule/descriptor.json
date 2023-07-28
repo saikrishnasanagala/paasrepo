@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "68a8e97b-dafe-419e-a361-99e85cb5ffc9",
+    "Name": "UsrPage_sgaj61bBusinessRule",
+    "ModifiedOnUtc": "\/Date(1690451811000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "OpportunityCandidates form page (Business rules)",
+    "DependsOn": []
+  }
+}

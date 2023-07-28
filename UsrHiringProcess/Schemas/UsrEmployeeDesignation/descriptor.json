@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "7fc30665-4a9e-4945-8eec-253d4f2074c6",
+    "Name": "UsrEmployeeDesignation",
+    "ModifiedOnUtc": "\/Date(1689842850000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Employee Designation",
+    "DependsOn": []
+  }
+}

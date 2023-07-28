@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0fc03f9f-00b6-41ff-8e5a-4b2013025a18",
+    "Name": "UsrApp_pfyeyjm",
+    "ModifiedOnUtc": "\/Date(1690449401000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "PQuotes",
+    "DependsOn": []
+  }
+}

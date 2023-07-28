@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "396d9c6e-b1e2-4fba-9fd5-491b85336bd0",
+    "Name": "UsrEntity_db336deBusinessRule",
+    "ModifiedOnUtc": "\/Date(1687795729000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "SubActivities (Business rules)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4096b6e9-9ab8-4f15-8360-838a02182bc1",
+    "Name": "UsrApp_lji2bjq_FormPage",
+    "ModifiedOnUtc": "\/Date(1690387444000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PActivities form page",
+    "DependsOn": []
+  }
+}

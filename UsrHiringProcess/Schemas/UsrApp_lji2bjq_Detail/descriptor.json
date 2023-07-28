@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "6dd525e8-20bf-4161-a892-624d83a35a4d",
+    "Name": "UsrApp_lji2bjq_Detail",
+    "ModifiedOnUtc": "\/Date(1686206504000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PActivities detail",
+    "DependsOn": []
+  }
+}

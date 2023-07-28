@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Contacts form page" />
+			<Item Name="LocalizableStrings.ActionDashboard_7mqknlp_title.Value" Value="Action dashboard" />
+			<Item Name="LocalizableStrings.addRecord_gledxbe_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_ijb09ri_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.addRecord_o2ns5xv_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.GeneralInfoTab_caption.Value" Value="Contact info" />
+			<Item Name="LocalizableStrings.TabContainer_9b5amzp_caption.Value" Value="attachements" />
+			<Item Name="LocalizableStrings.TabContainer_pljxxir_caption.Value" Value="History" />
+			<Item Name="LocalizableStrings.TabContainer_ui1mldu_caption.Value" Value="Communication channels" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "775e123d-2e4b-45e1-a24d-f27e3e4eaf93",
+    "Name": "UsrEntity_b804796RelatedPage",
+    "ModifiedOnUtc": "\/Date(1686205243000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "OpportunityCandidates (Page settings)",
+    "DependsOn": []
+  }
+}

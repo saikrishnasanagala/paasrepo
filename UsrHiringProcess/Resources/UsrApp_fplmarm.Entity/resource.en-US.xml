@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="PAssets" />
+			<Item Name="Columns.UsrAccount.Caption" Value="Account" />
+			<Item Name="Columns.UsrAnualCTC.Caption" Value="Anual CTC" />
+			<Item Name="Columns.UsrCAndidate.Caption" Value="Candidate" />
+			<Item Name="Columns.UsrColumn12.Caption" Value="date of relieving" />
+			<Item Name="Columns.UsrDescription.Caption" Value="Description" />
+			<Item Name="Columns.UsrDOJ.Caption" Value="Date of joining" />
+			<Item Name="Columns.UsrMactivity.Caption" Value="Main activity" />
+			<Item Name="Columns.UsrName.Caption" Value="AssetNO" />
+			<Item Name="Columns.UsrOpportunity.Caption" Value="Opportunity" />
+			<Item Name="Columns.UsrShift.Caption" Value="Shift" />
+			<Item Name="Columns.UsrWorklocation.Caption" Value="Work location" />
+			<Item Name="Columns.UsrWorktype.Caption" Value="Work Type" />
+		</Items>
+	</Group>
+</Resources>

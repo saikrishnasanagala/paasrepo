@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e3a9078c-97c7-4a66-acab-2c4c00bc6d62",
+    "Name": "UsrApp_ulpifig",
+    "ModifiedOnUtc": "\/Date(1689842856000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "employees",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d7e183b7-00ad-4b78-b1a7-3c3dd9857877",
+    "Name": "UsrApp_rcoazmu_FormPage",
+    "ModifiedOnUtc": "\/Date(1688290369000)\/",
+    "Parent": {
+      "UId": "3b2e117f-8c6b-4ca5-80a2-7ebb497cddf9",
+      "Name": "PageWithTabsFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "POrders form page",
+    "DependsOn": []
+  }
+}

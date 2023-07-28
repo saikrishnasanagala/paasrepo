@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "545b4f60-9292-4532-b8b5-0377c76a927a",
+    "Name": "UsrEntity_17a09b5RelatedPage",
+    "ModifiedOnUtc": "\/Date(1687975443000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Candidate overview (Page settings)",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="POpportunities list page" />
+			<Item Name="LocalizableStrings.RefreshButton_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.RefreshButtonCaption.Value" Value="Refresh" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "14bf8bfe-2279-4624-8e87-0c36c5385513",
+    "Name": "UsrOppoCandidatestatus",
+    "ModifiedOnUtc": "\/Date(1687239449000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "OppoCandidate status",
+    "DependsOn": []
+  }
+}

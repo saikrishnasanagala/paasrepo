@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "363224ec-a756-4006-8acf-888d7fb51b58",
+    "Name": "UsrApp_rcoazmu_ListPage",
+    "ModifiedOnUtc": "\/Date(1687277687000)\/",
+    "Parent": {
+      "UId": "3f1f3f38-a0a4-4549-b895-249fb08f554a",
+      "Name": "ListFreedomTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "POrders list page",
+    "DependsOn": []
+  }
+}
